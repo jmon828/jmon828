@@ -6,7 +6,7 @@
 I am a current Cybersecurity student with a profound interest in technology and dedication to solving complex problems.
 
 ## Objective
-My journey in the IT help desk has led me to extend my knowledge & passion for cybersecurity, and I am now eager to transition into field of Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in my previous position as a IT Help Desk Technician has led me to extend my knowledge & passion for cybersecurity, and I am now eager to transition into field of Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
