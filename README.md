@@ -3,10 +3,10 @@
 
 ## Introduction
 
-I am a current Cybersecurity student with a profound interest in technology and dedication to solving complex problems.
+I am a cybersecurity student with a strong passion for technology and a drive to solve complex security challenges. My goal is to apply my skills in threat detection and incident response to protect critical systems.
 
 ## Objective
-My journey in my previous position as a IT Help Desk Technician has led me to extend my knowledge & passion for cybersecurity, and I am now eager to transition into field of Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a strong foundation in IT support as a Help Desk Technician, I have developed a deep passion for cybersecurity and a drive to expand my expertise in threat detection and incident response. I am eager to transition into cybersecurity, leveraging my technical skills and analytical mindset to contribute as a Tier 1 SOC Analyst in a dynamic Security Operations Center
 
 ## Skills
 
