@@ -44,5 +44,4 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 </div>
 
 ## Projects
-- Detection Lab
 - SOC Automation Project
