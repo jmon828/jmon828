@@ -27,7 +27,7 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-FFFFFF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
