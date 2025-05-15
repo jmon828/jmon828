@@ -38,7 +38,8 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 <img src="https://img.shields.io/badge/-ITILv4%20Foundations-652D90?style=for-the-badge&logoColor=white" />
 </div>
 
-## Cybersecurity Projects
+## Projects
+### Cybersecurity
 - <a href =https://github.com/jmon828/SOC-Automation-Lab/tree/main>SOC Automation Lab</a>
 
 
