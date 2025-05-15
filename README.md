@@ -20,7 +20,7 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 ## Tools
 ### Networking
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" href="https://www.wireshark.org/" />
 </div>
 
 </div>
@@ -38,5 +38,8 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 <img src="https://img.shields.io/badge/-ITILv4%20Foundations-652D90?style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Cybersecurity Projects
 - <a href =https://github.com/jmon828/SOC-Automation-Lab/tree/main>SOC Automation Lab</a>
+
+## Networking Projects
+
