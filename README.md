@@ -43,6 +43,6 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 - <a href =https://github.com/jmon828/SOC-Automation-Lab/tree/main>SOC Automation Lab</a>
 
 ### Phishing Analysis
-- <a href => kc7cyber: A Rap Beef</a>
+- <a href =https://github.com/jmon828/kc7cyber/blob/main/A%20Rap%20Beef.md> kc7cyber: A Rap Beef</a>
 
 
