@@ -39,7 +39,7 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 </div>
 
 ## Projects
-### Cybersecurity
+### Full Cybersecurity Labs
 - <a href =https://github.com/jmon828/SOC-Automation-Lab/tree/main>SOC Automation Lab</a>
 
 ### Phishing Analysis
