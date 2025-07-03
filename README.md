@@ -46,6 +46,6 @@ With a strong foundation in IT support as a Help Desk Technician, I have develop
 - <a href =https://github.com/jmon828/kc7cyber/blob/main/A%20Rap%20Beef.md> kc7cyber: A Rap Beef</a>
 
 ### Coding
-- <a href= > Python: Strong Password Generator</a>
+- <a href=https://github.com/jmon828/Coding-Projects/tree/main/Python/Strong%20Password%20Generator > Python: Strong Password Generator</a>
 
 
